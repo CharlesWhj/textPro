@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <div>关于</div>
-  </div>
+  <div>welcome</div>
 </template>
 
 <script>
