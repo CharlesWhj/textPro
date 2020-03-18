@@ -1,5 +1,5 @@
 <template>
-  <div>新增页</div>
+  <div>新增页，再新增</div>
 </template>
 
 <script>
