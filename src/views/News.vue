@@ -1,5 +1,7 @@
 <template>
-  <div>news1111</div>
+  <div>news1111
+      <span>new1分支的内容</span>
+  </div>
 </template>
 
 <script>
